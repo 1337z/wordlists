@@ -1,3 +1,11 @@
+# Don´t upload anyfiles
 *.*
+
+# Except wordlists and the .gitignore itself
 !*.lst
 !.gitignore
+
+# Wordlist manager files: https://github.com/MarvinJWendt/wordlist-manager
+convert
+create
+remove
